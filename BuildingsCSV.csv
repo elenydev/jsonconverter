@@ -1,0 +1,43 @@
+Building name,Initial count,Category,Time to build,Cost Money,Cost Production,Food Periodic impact,Food One time bonus,Housing One time bonus,Periodic impact,Health One time bonus,Periodic impact,Science One time bonus,Periodic impact,Faith One time bonus,Periodic impact,Happiness One time bonus,Periodic impact,Internal Security One time bonus,Periodic impact,Military Power One time bonus,Periodic impact,Production One time bonus,Periodic impact,Environment Condition One time bonus,Periodic impact,Energy One time bonus,Periodic impact,Money One time bonus,Periodic impact
+Local Farms,1,Food,,10,,0.1,,,,,,,,,,,0.1,,,,,,,,0.1,,-0.1,,
+Industrial Farms,,Fod,,40,,0.4,,,,,-0.1,,,,,,,,,,,,,,,,-0.1,,
+Housing Estate,1,Housing,,10,,-0.2,,1,,,,,,,,,,,-0.1,,,,,,-0.1,,-0.1,,
+High Rise Housing Estate,,Housing,,20,,-0.4,,3,,,,,,,,,,,-0.2,,,,,,,,-0.2,,
+Clinic,,Health,,10,,-0.1,,,,,0.2,,,,,,,,,,,,,,,,-0.1,,-1
+Hospital,,Health,,40,,-0.2,,,,,0.4,,,,,,,,,,,,,,,,-0.2,,-2
+Library,,Science,,,,,,,,,,,0.1,,,,,,,,,,,,,,-0.1,,-1
+School,,Science,,,,,,,,,,,0.2,,,,,,,,,,,,,,-0.1,,-1
+University Campus,,Science,,,,,,,,,,,0.4,,,,,,,,,,,,,,-0.2,,-2
+Laboratory,,Science,,,,,,,,,,,0.4,,,,,,,,,,,,,,-0.1,,-1
+Research Center,,Science,,,,,,,,,,,0.4,,,,,,,,,,,,,,-0.2,,-2
+Church,,Religion,,,,,,,,,,,,,0.1,,,,0.1,,,,,,,,-0.1,,
+Cathedral,,Religion,,,,,,,,,,,,,0.2,,,,0.1,,,,,,,,-0.1,,
+Cinema,,Happiness,,,,,,,,,,,,,,,0.1,,,,,,,,,,-0.1,,
+Theatre,,Happiness,,,,,,,,,,,,,,,0.2,,,,,,,,,,-0.1,,
+Zoo,,Happiness,,,,,,,,,,,,,,,0.2,,,,,,,,,,-0.1,,
+Stadium,,Happiness,,,,,,,,,,,,,,,0.4,,,,,,,,,,-0.2,,
+Police Station,,Internal Security,,,,,,,,,,,,,,,,,0.4,,,,,,,,-0.1,,-1
+Fire Brigade Station,,Internal Security,,,,,,,,,,,,,,,,,0.2,,,,,,,,-0.1,,-1
+Courthouse,,Internal Security,,,,,,,,,,,,,,,,,0.2,,,,,,,,-0.1,,-1
+Military Academy,,Military power,,,,,,,,,,,0.1,,,,,,,,0.1,,,,,,-0.1,,-2
+Military Factory,,Military power,,,,,,,,,,,0.1,,,,,,,,0.2,,,,-0.1,,-0.4,,-4
+Military Base,,Military power,,,,,,,,,,,,,,,,,0.4,,0.4,,,,,,-0.4,,-10
+Local Manufacturer,1,Production,,,,,,,,,,,,,,,,,,,,,0.1,,,,-0.1,,
+Civilian Factory,,Production,,,,,,,,,,,,,,,,,,,,,0.2,,-0.1,,-0.2,,
+Industrial Park,,Production,,,,,,,,,,,,,,,,,,,,,0.4,,-0.2,,-0.4,,
+Park,,Environment,,,,,,,,,0.1,,,,,,0.1,,,,,,,,0.1,,-0.1,,-1
+Recycling Center,,Environment,,,,,,,,,,,,,,,,,,,,,,,0.2,,-0.2,,-2
+Sewege Treatment Plant,,Environment,,,,,,,,,,,,,,,,,,,,,,,0.2,,-0.2,,-2
+Coal Power Plant,1,Energy,,,,,,,,,-0.2,,,,,,-0.1,,,,,,,,-0.2,,1,,-1
+Solar Power Plant,,Energy,,,,,,,,,,,,,,,,,,,,,,,,,0.4,,-0.4
+Hydro Power Plant,,Energy,,,,,,,,,,,,,,,,,,,,,,,,,0.4,,-0.4
+Nuclear Power Plant,,Energy,,,,,,,,,,,,,,,,,,,,,,,,,4,,-10
+Market,,Money,,,,,,,,,,,,,,,,,,,,,,,,,-0.1,,2
+Bank,,Money,,,,,,,,,,,,,,,,,,,,,,,,,-0.1,,4
+Stock Exchange,,Money,,,,,,,,,,,,,,,,,,,,,,,,,-0.1,,10
+Bus Station,,Transport,,,,,,,,,,,,,,,,,,,,,,,,,-0.2,,2
+Railway Station,,Transport,,,,,,,,,,,,,,,,,,,,,,,,,-0.4,,4
+Airport,,Transport,,,,,,,,,,,,,,,,,,,,,,,,,-0.4,,4
+Road,,Roads,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.1
+Highway,,Roads,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.2
+Rails,,Roads,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.2
