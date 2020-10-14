@@ -122,7 +122,3 @@ const create = () => createCountriesJson(countries)
 
 module.exports = create
 
-// const religions = removeDate(removeBrackets(array)).split(',').map(el =>{
-  
-//   let name= el.replace(/\(.*\)/,'')
-//   name = name.split(/\d/)[0].trim();
