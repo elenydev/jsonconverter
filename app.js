@@ -2,6 +2,7 @@ const fs = require("fs");
 
 const csvBuildings = "BuildingsCSV.csv";
 const csvConverter = require("csvtojson");
+const createCountriesJson = require('./helpers/Countries/countriesListBuilder');
 
 const convertToJson = async (baseFile, outputFileName) => {
   const jsonOutput = await csvConverter()
@@ -9,7 +10,7 @@ const convertToJson = async (baseFile, outputFileName) => {
     .then((jsonObject) => {
       const data = JSON.stringify(jsonObject, null, 2);
 
-      fs.writeFile(outputFileName, data, (err, data) => {
+      fs.writeFile('data/'+outputFileName, data, (err, data) => {
         if (!err) return data;
 
         console.log(err);
@@ -21,4 +22,5 @@ const convertToJson = async (baseFile, outputFileName) => {
     });
 };
 
+createCountriesJson()
 convertToJson(csvBuildings, "Buildings.json");
