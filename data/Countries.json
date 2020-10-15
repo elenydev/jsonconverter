@@ -26,6 +26,9 @@
           "Muslim": 99.7
         },
         {
+          "Shia": 10
+        },
+        {
           "other": 0.3
         }
       ],
@@ -45,7 +48,7 @@
         "$2.000",
         "$2.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 24,
         "industry": 21,
         "services": 55
@@ -86,7 +89,7 @@
           "atheist": 2.5
         },
         {
-          "Bektashi": 2.1
+          "Bektashi (a Sufi order)": 2.1
         },
         {
           "other": 5.7
@@ -111,7 +114,7 @@
         "$11.500",
         "$11.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 21.6,
         "industry": 14.9,
         "services": 63.5
@@ -135,10 +138,10 @@
       "population": "40,263,711",
       "religions": [
         {
-          "Muslim": 99
+          "Muslim (official; predominantly Sunni)": 99
         },
         {
-          "other<": 1
+          "other (includes Christian and Jewish) <": 1
         }
       ],
       "populationGrowthRate": 1.77,
@@ -157,7 +160,7 @@
         "$14.700",
         "$14.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 13.1,
         "industry": 38.7,
         "services": 48.2
@@ -177,6 +180,7 @@
       "forest": 34,
       "enviromentIssues": "deforestation; overgrazing of mountain meadows contributes to soil erosion; air pollution; wastewater treatment and solid waste disposal",
       "population": "85,660",
+      "religions": null,
       "populationGrowthRate": 0.07,
       "lifeExpectancyAtBirth": {
         "totalPopulation": 82.8,
@@ -193,7 +197,7 @@
         "$37.700",
         "$37.900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 14,
         "industry": 79,
         "services": 6
@@ -247,7 +251,7 @@
         "$7.000",
         "$7.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 10.2,
         "industry": 61.4,
         "services": 28.4
@@ -266,6 +270,27 @@
       "religions": [
         {
           "Protestant": 68.3
+        },
+        {
+          "Seventh Day Adventist": 12.4
+        },
+        {
+          "Pentecostal": 12.2
+        },
+        {
+          "Moravian": 8.3
+        },
+        {
+          "Methodist": 5.6
+        },
+        {
+          "Wesleyan Holiness": 4.5
+        },
+        {
+          "Church of God": 4.1
+        },
+        {
+          "Baptist": 3.6
         },
         {
           "Roman Catholic": 8.2
@@ -296,7 +321,7 @@
         "$23.900",
         "$23.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.2,
         "industry": 17.8,
         "services": 80
@@ -351,7 +376,7 @@
         "$20.800",
         "$20.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 11.4,
         "industry": 30.2,
         "services": 58.4
@@ -404,7 +429,7 @@
         "$8.600",
         "$8.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 19.6,
         "industry": 29.1,
         "services": 51.3
@@ -441,7 +466,28 @@
           "Protestant": 30.1
         },
         {
+          "Uniting Church": 5
+        },
+        {
+          "Presbyterian and Reformed": 2.8
+        },
+        {
+          "": 1.6
+        },
+        {
+          "Lutheran": 1.2
+        },
+        {
+          "Pentecostal": 1.1
+        },
+        {
+          "other Protestant": 1.3
+        },
+        {
           "Catholic": 25.3
+        },
+        {
+          "other Catholic": 0.2
         },
         {
           "other Christian": 2.9
@@ -484,7 +530,7 @@
         "$48.300",
         "$47.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 3.6,
         "industry": 28.2,
         "services": 68.2
@@ -515,6 +561,9 @@
       "religions": [
         {
           "Catholic": 73.8
+        },
+        {
+          "other Catholic": 0.2
         },
         {
           "Protestant": 4.9
@@ -551,7 +600,7 @@
         "$47.600",
         "$47.600"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 1.3,
         "industry": 28.1,
         "services": 70.6
@@ -601,7 +650,7 @@
         "$18.300",
         "$18.200"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 6.4,
         "industry": 61.1,
         "services": 32.5
@@ -623,6 +672,21 @@
       "religions": [
         {
           "Protestant": 69.9
+        },
+        {
+          "Anglican": 13.7
+        },
+        {
+          "Pentecostal": 8.9
+        },
+        {
+          "Methodist": 3.6
+        },
+        {
+          "Church of God": 1.9
+        },
+        {
+          "Brethren": 1.6
         },
         {
           "Roman Catholic": 12
@@ -656,7 +720,7 @@
         "$24.800",
         "$25.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.3,
         "industry": 7.6,
         "services": 90.1
@@ -708,7 +772,7 @@
         "$50.200",
         "$49.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 0.3,
         "industry": 33.8,
         "services": 65.9
@@ -736,6 +800,9 @@
         },
         {
           "other": 0.9
+        },
+        {
+          "Christian) (": 2013
         }
       ],
       "populationGrowthRate": 1.05,
@@ -754,7 +821,7 @@
         "$3.700",
         "$3.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 15.1,
         "industry": 28.6,
         "services": 56.3
@@ -777,10 +844,40 @@
           "Protestant": 66.4
         },
         {
+          "other Pentecostal": 19.5
+        },
+        {
+          "Adventist": 5.9
+        },
+        {
+          "Methodist": 4.2
+        },
+        {
+          "Wesleyan": 3.4
+        },
+        {
+          "Nazarene": 3.2
+        },
+        {
+          "Church of God": 2.4
+        },
+        {
+          "Baptist": 1.8
+        },
+        {
+          "Moravian": 1.2
+        },
+        {
+          "other Protestant": 0.9
+        },
+        {
           "Roman Catholic": 3.8
         },
         {
           "other Christian": 5.4
+        },
+        {
+          "other": 3.4
         },
         {
           "Rastafarian": 1
@@ -811,7 +908,7 @@
         "$16.900",
         "$16.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.8,
         "industry": 11.7,
         "services": 85.5
@@ -866,7 +963,7 @@
         "$17.900",
         "$18.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 9.2,
         "industry": 40.9,
         "services": 49.8
@@ -890,7 +987,7 @@
           "Roman Catholic": 75
         },
         {
-          "other": 25
+          "other (includes Protestant)": 25
         }
       ],
       "populationGrowthRate": 0.73,
@@ -909,7 +1006,7 @@
         "$44.700",
         "$44.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 0.6,
         "industry": 21.8,
         "services": 77.6
@@ -934,6 +1031,24 @@
         },
         {
           "Protestant": 31.5
+        },
+        {
+          "Seventh Day Adventist": 5.4
+        },
+        {
+          "Anglican": 4.7
+        },
+        {
+          "Mennonite": 3.7
+        },
+        {
+          "Baptist": 3.6
+        },
+        {
+          "Methodist": 2.9
+        },
+        {
+          "Nazarene": 2.8
         },
         {
           "Jehovah's Witness": 1.7
@@ -964,7 +1079,7 @@
         "$8.400",
         "$8.600"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 11.7,
         "industry": 14.5,
         "services": 59.9
@@ -992,6 +1107,12 @@
         },
         {
           "Protestant": 13.5
+        },
+        {
+          "Methodist": 3.4
+        },
+        {
+          "other Protestant": 3.4
         },
         {
           "Vodoun": 11.6
@@ -1025,7 +1146,7 @@
         "$2.100",
         "$2.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 22.9,
         "industry": 24.9,
         "services": 52.2
@@ -1071,7 +1192,7 @@
         "$7.800",
         "$7.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 16.4,
         "industry": 42.1,
         "services": 41.5
@@ -1131,7 +1252,7 @@
         "$7.000",
         "$6.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 13.3,
         "industry": 37.4,
         "services": 53.6
@@ -1201,7 +1322,7 @@
         "$10.700",
         "$10.300"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 7.8,
         "industry": 26.8,
         "services": 65.4
@@ -1258,7 +1379,7 @@
         "$16.600",
         "$16.900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 1.8,
         "industry": 29.8,
         "services": 68.4
@@ -1297,6 +1418,18 @@
           "Protestant": 22.2
         },
         {
+          "Assembly of God": 2
+        },
+        {
+          "Christian Congregation of Brazil": 1.2
+        },
+        {
+          "Universal Kingdom of God": 1
+        },
+        {
+          "other Protestant": 11.5
+        },
+        {
           "other Christian": 0.7
         },
         {
@@ -1328,7 +1461,7 @@
         "$15.900",
         "$16.600"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 6.3,
         "industry": 21.8,
         "services": 72
@@ -1348,7 +1481,7 @@
       "population": "436,620",
       "religions": [
         {
-          "Muslim": 78.8
+          "Muslim (official)": 78.8
         },
         {
           "Christian": 8.7
@@ -1357,7 +1490,7 @@
           "Buddhist": 7.8
         },
         {
-          "other": 4.7
+          "other (includes indigenous beliefs)": 4.7
         }
       ],
       "populationGrowthRate": 1.6,
@@ -1376,7 +1509,7 @@
         "$80.600",
         "$82.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 1.1,
         "industry": 60.4,
         "services": 38.5
@@ -1406,7 +1539,7 @@
           "Muslim": 7.8
         },
         {
-          "other": 1.7
+          "and Jewish)": 1.7
         },
         {
           "none": 3.7
@@ -1431,7 +1564,7 @@
         "$19.400",
         "$18.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 5.1,
         "industry": 27.5,
         "services": 67.5
@@ -1488,7 +1621,7 @@
         "$1.800",
         "$1.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 32.5,
         "industry": 21.8,
         "services": 45.7
@@ -1557,7 +1690,7 @@
         "$5.600",
         "$5.200"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 26.3,
         "industry": 27.5,
         "services": 46.2
@@ -1622,7 +1755,7 @@
         "$800",
         "$900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 45.8,
         "industry": 17.1,
         "services": 37.1
@@ -1647,7 +1780,7 @@
       "population": "15,957,223",
       "religions": [
         {
-          "Buddhist": 96.9
+          "Buddhist (official)": 96.9
         },
         {
           "Muslim": 1.9
@@ -1675,7 +1808,7 @@
         "$3.500",
         "$3.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 26.7,
         "industry": 29.8,
         "services": 43.5
@@ -1734,7 +1867,7 @@
         "$3.200",
         "$3.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 21.3,
         "industry": 30.8,
         "services": 47.9
@@ -1772,7 +1905,28 @@
           "Catholic": 39
         },
         {
+          "other Catholic .": 2
+        },
+        {
           "Protestant": 20.3
+        },
+        {
+          "Anglican": 5
+        },
+        {
+          "Baptist": 1.9
+        },
+        {
+          "Lutheran": 1.5
+        },
+        {
+          "Pentecostal": 1.5
+        },
+        {
+          "Presbyterian": 1.4
+        },
+        {
+          "other Protestant": 2.9
         },
         {
           "Orthodox": 1.6
@@ -1818,7 +1972,7 @@
         "$46.200",
         "$46.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 1.6,
         "industry": 27.7,
         "services": 70.7
@@ -1848,7 +2002,25 @@
           "Protestant": 4.6
         },
         {
+          "Adventist": 1.5
+        },
+        {
+          "Assembly of God": 0.9
+        },
+        {
+          "Universal Kingdom of God": 0.4
+        },
+        {
+          "and God and Love": 0.1
+        },
+        {
           "other Christian": 3.4
+        },
+        {
+          "Jehovah's Witness": 1
+        },
+        {
+          "and New Apostolic": 0.5
         },
         {
           "Muslim": 1.8
@@ -1879,7 +2051,7 @@
         "$6.600",
         "$6.600"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 7.4,
         "industry": 16.4,
         "services": 76.2
@@ -1930,7 +2102,7 @@
         "$600",
         "$600"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 58,
         "industry": 11.7,
         "services": 30.3
@@ -1990,7 +2162,7 @@
         "$2.700",
         "$2.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 53,
         "industry": 12.8,
         "services": 34.2
@@ -2048,7 +2220,7 @@
         "$23.800",
         "$23.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 4,
         "industry": 32.4,
         "services": 63.6
@@ -2124,7 +2296,7 @@
         "$14.500",
         "$13.600"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 8.6,
         "industry": 40.7,
         "services": 50.7
@@ -2172,7 +2344,7 @@
         "$14.000",
         "$13.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 6.9,
         "industry": 34,
         "services": 59.1
@@ -2212,7 +2384,7 @@
         "$1.500",
         "$1.600"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 50,
         "industry": 12.1,
         "services": 37.9
@@ -2256,7 +2428,7 @@
           "Muslim": 10
         },
         {
-          "other": 10
+          "other (includes syncretic sects and indigenous beliefs)": 10
         }
       ],
       "populationGrowthRate": 2.42,
@@ -2275,7 +2447,7 @@
         "$800",
         "$700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 20.1,
         "industry": 31.7,
         "services": 48.1
@@ -2344,7 +2516,7 @@
         "$6.800",
         "$6.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 4.9,
         "industry": 69.8,
         "services": 25.3
@@ -2396,7 +2568,7 @@
         "$15.700",
         "$15.300"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 5.5,
         "industry": 18.6,
         "services": 75.9
@@ -2453,7 +2625,7 @@
         "$1.800",
         "$1.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 32.5,
         "industry": 21.8,
         "services": 45.7
@@ -2516,7 +2688,7 @@
         "$21.900",
         "$21.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 4.2,
         "industry": 26.6,
         "services": 69.2
@@ -2562,7 +2734,7 @@
         "$11.500",
         "$11.200"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 3.9,
         "industry": 23,
         "services": 72.2
@@ -2602,7 +2774,7 @@
           "Buddhist": 1
         },
         {
-          "other": 1.4
+          "Hindu)": 1.4
         },
         {
           "unknown": 1.1
@@ -2627,7 +2799,7 @@
         "$33.600",
         "$32.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.3,
         "industry": 10.4,
         "services": 87.2
@@ -2654,7 +2826,7 @@
           "Roman Catholic": 10.4
         },
         {
-          "Protestant": 1.1
+          "Protestant (includes Czech Brethren and Hussite)": 1.1
         },
         {
           "other and unspecified": 54
@@ -2679,7 +2851,7 @@
         "$32.500",
         "$31.200"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.5,
         "industry": 37.5,
         "services": 60
@@ -2705,13 +2877,16 @@
       "population": "5,593,785",
       "religions": [
         {
-          "Evangelical Lutheran": 80
+          "Evangelical Lutheran (official)": 80
         },
         {
           "Muslim": 4
         },
         {
-          "other": 16
+          "other (denominations of less than": 1
+        },
+        {
+          "and Buddhist)": 16
         }
       ],
       "populationGrowthRate": 0.22,
@@ -2730,7 +2905,7 @@
         "$46.300",
         "$46.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 1.1,
         "industry": 23.4,
         "services": 75.5
@@ -2780,7 +2955,7 @@
         "$3.300",
         "$3.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.9,
         "industry": 20.8,
         "services": 76.3
@@ -2804,6 +2979,24 @@
         },
         {
           "Protestant": 28.6
+        },
+        {
+          "Seventh Day Adventist": 6.1
+        },
+        {
+          "Pentecostal": 5.6
+        },
+        {
+          "Baptist": 4.1
+        },
+        {
+          "Methodist": 3.7
+        },
+        {
+          "Church of God": 1.2
+        },
+        {
+          "other": 1.2
         },
         {
           "Rastafarian": 1.3
@@ -2837,7 +3030,7 @@
         "$11.300",
         "$11.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 14.7,
         "industry": 15.5,
         "services": 69.8
@@ -2881,7 +3074,7 @@
         "$15.200",
         "$14.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 5.1,
         "industry": 32.8,
         "services": 62.2
@@ -2936,7 +3129,7 @@
         "$11.500",
         "$11.600"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 6.2,
         "industry": 34,
         "services": 59.8
@@ -2965,10 +3158,10 @@
       "population": "94,666,993",
       "religions": [
         {
-          "Muslim": 90
+          "Muslim (predominantly Sunni)": 90
         },
         {
-          "Christian": 10
+          "and Anglican)": 10
         }
       ],
       "populationGrowthRate": 2.51,
@@ -2987,7 +3180,7 @@
         "$12.000",
         "$11.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 11.3,
         "industry": 35.8,
         "services": 52.9
@@ -3042,7 +3235,7 @@
         "$8.700",
         "$8.600"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 10.6,
         "industry": 25.3,
         "services": 64.1
@@ -3066,6 +3259,7 @@
       "forest": 57.5,
       "enviromentIssues": "tap water is non-potable; deforestation",
       "population": "759,451",
+      "religions": null,
       "populationGrowthRate": 2.48,
       "lifeExpectancyAtBirth": {
         "totalPopulation": 64.2,
@@ -3082,7 +3276,7 @@
         "$44.100",
         "$48.900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 8.8,
         "industry": 71.7,
         "services": 16.5
@@ -3104,6 +3298,7 @@
       "forest": 15.1,
       "enviromentIssues": "deforestation; desertification; soil erosion; overgrazing; loss of infrastructure from civil warfare",
       "population": "5,869,869",
+      "religions": null,
       "populationGrowthRate": 0.81,
       "lifeExpectancyAtBirth": {
         "totalPopulation": 64.9,
@@ -3120,7 +3315,7 @@
         "$1.300",
         "$1.300"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 12.1,
         "industry": 29.5,
         "services": 58.5
@@ -3153,7 +3348,7 @@
           "Orthodox": 16.2
         },
         {
-          "other Christian": 2.2
+          "Pentecostal)": 2.2
         },
         {
           "other": 0.9
@@ -3181,7 +3376,7 @@
         "$29.000",
         "$28.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 3.5,
         "industry": 28.1,
         "services": 68.4
@@ -3238,7 +3433,7 @@
         "$1.800",
         "$1.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 36.2,
         "industry": 17,
         "services": 46.8
@@ -3262,6 +3457,15 @@
       "religions": [
         {
           "Protestant": 45
+        },
+        {
+          "Assembly of God": 5.7
+        },
+        {
+          "Seventh Day Adventist": 3.9
+        },
+        {
+          "and Anglican": 0.8
         },
         {
           "Hindu": 27.9
@@ -3301,7 +3505,7 @@
         "$9.200",
         "$8.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 10.6,
         "industry": 18.4,
         "services": 71
@@ -3353,7 +3557,7 @@
         "$41.600",
         "$41.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.5,
         "industry": 26.9,
         "services": 70.6
@@ -3367,7 +3571,7 @@
       "population": "66,836,154",
       "religions": [
         {
-          "Christian": 63
+          "Christian (overwhelmingly Roman Catholic)": 63
         },
         {
           "Muslim": 7
@@ -3401,7 +3605,7 @@
         "$42.000",
         "$41.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 1.7,
         "industry": 19.4,
         "services": 78.8
@@ -3465,7 +3669,7 @@
         "$18.900",
         "$18.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 4.5,
         "industry": 46.4,
         "services": 49.1
@@ -3516,7 +3720,7 @@
         "$1.700",
         "$1.600"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 21.4,
         "industry": 15.6,
         "services": 63
@@ -3539,7 +3743,7 @@
       "population": "4,928,052",
       "religions": [
         {
-          "Orthodox": 83.4
+          "Orthodox (official)": 83.4
         },
         {
           "Muslim": 10.7
@@ -3573,7 +3777,7 @@
         "$9.700",
         "$9.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 9.2,
         "industry": 21.6,
         "services": 68.3
@@ -3630,7 +3834,7 @@
         "$47.600",
         "$47.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 0.6,
         "industry": 30.3,
         "services": 69.1
@@ -3662,6 +3866,15 @@
           "Christian": 71.2
         },
         {
+          "Protestant": 18.4
+        },
+        {
+          "Catholic": 13.1
+        },
+        {
+          "other": 11.4
+        },
+        {
           "Muslim": 17.6
         },
         {
@@ -3690,7 +3903,7 @@
         "$4.300",
         "$4.300"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 19.5,
         "industry": 24,
         "services": 56.4
@@ -3718,7 +3931,7 @@
       "population": "10,773,253",
       "religions": [
         {
-          "Greek Orthodox": 98
+          "Greek Orthodox (official)": 98
         },
         {
           "Muslim": 1.3
@@ -3743,7 +3956,7 @@
         "$26.700",
         "$26.600"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 4.1,
         "industry": 15,
         "services": 80.9
@@ -3767,6 +3980,27 @@
         },
         {
           "Protestant": 43.5
+        },
+        {
+          "Pentecostal": 11.3
+        },
+        {
+          "Seventh Day Adventist": 10.5
+        },
+        {
+          "Baptist": 2.9
+        },
+        {
+          "Church of God": 2.6
+        },
+        {
+          "Methodist": 1.8
+        },
+        {
+          "Evangelical": 1.6
+        },
+        {
+          "other": 1.3
         },
         {
           "Jehovah's Witness": 1.1
@@ -3797,7 +4031,7 @@
         "$13.700",
         "$13.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 9.6,
         "industry": 13.8,
         "services": 76.6
@@ -3818,6 +4052,7 @@
       "forest": 33.6,
       "enviromentIssues": "deforestation in the Peten rainforest; soil erosion; water pollution",
       "population": "15,189,958",
+      "religions": null,
       "populationGrowthRate": 1.79,
       "lifeExpectancyAtBirth": {
         "totalPopulation": 72.3,
@@ -3834,7 +4069,7 @@
         "$7.900",
         "$7.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 13.2,
         "industry": 23.5,
         "services": 63.3
@@ -3884,7 +4119,7 @@
         "$1.300",
         "$1.300"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 19.7,
         "industry": 37.7,
         "services": 42.6
@@ -3940,7 +4175,7 @@
         "$1.500",
         "$1.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 45,
         "industry": 13.3,
         "services": 41.7
@@ -3964,6 +4199,15 @@
       "religions": [
         {
           "Protestant": 30.5
+        },
+        {
+          "Anglican": 6.9
+        },
+        {
+          "Seventh Day Adventist": 5
+        },
+        {
+          "Methodist": 1.7
         },
         {
           "Hindu": 28.4
@@ -4006,7 +4250,7 @@
         "$7.600",
         "$7.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 20.6,
         "industry": 33.1,
         "services": 46.3
@@ -4030,13 +4274,25 @@
       "population": "10,485,800",
       "religions": [
         {
-          "Roman Catholic": 54.7
+          "Roman Catholic (official)": 54.7
         },
         {
           "Protestant": 28.5
         },
         {
-          "voodoo": 2.1
+          "Pentecostal": 7.9
+        },
+        {
+          "Adventist": 3
+        },
+        {
+          "Methodist": 1.5
+        },
+        {
+          "other": 0.7
+        },
+        {
+          "voodoo (official)": 2.1
         },
         {
           "other": 4.6
@@ -4061,7 +4317,7 @@
         "$1.800",
         "$1.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 21.5,
         "industry": 20.3,
         "services": 58.2
@@ -4111,7 +4367,7 @@
         "$5.200",
         "$5.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 13.8,
         "industry": 26.6,
         "services": 59.6
@@ -4170,7 +4426,7 @@
         "$26.600",
         "$25.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 3.5,
         "industry": 31.8,
         "services": 64.7
@@ -4191,7 +4447,7 @@
       "population": "335,878",
       "religions": [
         {
-          "Evangelical Lutheran Church of Iceland": 73.8
+          "Evangelical Lutheran Church of Iceland (official)": 73.8
         },
         {
           "Roman Catholic": 3.6
@@ -4231,7 +4487,7 @@
         "$46.200",
         "$45.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 5.9,
         "industry": 20.4,
         "services": 73.7
@@ -4292,7 +4548,7 @@
         "$6.300",
         "$5.900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 16.5,
         "industry": 29.8,
         "services": 45.4
@@ -4354,7 +4610,7 @@
         "$11.300",
         "$10.900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 13.7,
         "industry": 40.3,
         "services": 46
@@ -4381,10 +4637,13 @@
       "population": "82,801,633",
       "religions": [
         {
-          "Muslim": 99.4
+          "Muslim (official)": 99.4
         },
         {
-          "other": 0.3
+          "Sunni": 5
+        },
+        {
+          "and Christian)": 0.3
         },
         {
           "unspecified": 0.4
@@ -4406,7 +4665,7 @@
         "$17.600",
         "$17.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 9.1,
         "industry": 39.9,
         "services": 51
@@ -4427,7 +4686,10 @@
       "population": "38,146,025",
       "religions": [
         {
-          "Muslim": 99
+          "Muslim (official)": 99
+        },
+        {
+          "Sunni": 32
         },
         {
           "Christian": 0.8
@@ -4467,7 +4729,7 @@
         "$15.400",
         "$16.200"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 5.7,
         "industry": 45.1,
         "services": 49.3
@@ -4531,7 +4793,7 @@
         "$66.700",
         "$53.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 1,
         "industry": 41.3,
         "services": 57.6
@@ -4587,7 +4849,7 @@
         "$34.500",
         "$34.300"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.1,
         "industry": 27.3,
         "services": 69
@@ -4621,6 +4883,12 @@
           "Christian": 80
         },
         {
+          "Muslim (about": 800
+        },
+        {
+          "": 0
+        },
+        {
           "atheist and agnostic": 20
         }
       ],
@@ -4640,7 +4908,7 @@
         "$36.300",
         "$36.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.2,
         "industry": 23.9,
         "services": 73.8
@@ -4661,6 +4929,42 @@
       "religions": [
         {
           "Protestant": 64.8
+        },
+        {
+          "Pentecostal": 11
+        },
+        {
+          "Other Church of God": 9.2
+        },
+        {
+          "New Testament Church of God": 7.2
+        },
+        {
+          "Baptist": 6.7
+        },
+        {
+          "Church of God in Jamaica": 4.8
+        },
+        {
+          "Church of God of Prophecy": 4.5
+        },
+        {
+          "Anglican": 2.8
+        },
+        {
+          "United Church": 2.1
+        },
+        {
+          "Methodist": 1.6
+        },
+        {
+          "Revived": 1.4
+        },
+        {
+          "Brethren": 0.9
+        },
+        {
+          "and Moravian": 0.7
         },
         {
           "Roman Catholic": 2.2
@@ -4697,7 +5001,7 @@
         "$8.900",
         "$8.900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 6.7,
         "industry": 21.3,
         "services": 72
@@ -4744,7 +5048,7 @@
         "$38.600",
         "$38.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 1.2,
         "industry": 27.7,
         "services": 71.1
@@ -4804,7 +5108,7 @@
         "$11.000",
         "$11.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 4.2,
         "industry": 29.6,
         "services": 66.2
@@ -4867,7 +5171,7 @@
         "$26.300",
         "$26.300"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 5.1,
         "industry": 33,
         "services": 61.9
@@ -4895,6 +5199,12 @@
       "religions": [
         {
           "Christian": 83
+        },
+        {
+          "Catholic": 23.4
+        },
+        {
+          "other Christian": 11.9
         },
         {
           "Muslim": 11.2
@@ -4928,7 +5238,7 @@
         "$3.300",
         "$3.200"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 32.7,
         "industry": 18,
         "services": 49.3
@@ -4988,7 +5298,7 @@
         "$1.800",
         "$1.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 26.3,
         "industry": 9.2,
         "services": 64.5
@@ -5016,6 +5326,7 @@
       "forest": 46,
       "enviromentIssues": "water pollution; inadequate supplies of potable water; waterborne disease; deforestation; soil erosion and degradation",
       "population": "25,115,311",
+      "religions": null,
       "populationGrowthRate": 0.53,
       "lifeExpectancyAtBirth": {
         "totalPopulation": 70.4,
@@ -5032,7 +5343,7 @@
         "$1.800",
         "$1.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 25.1,
         "industry": 40.9,
         "services": 33.9
@@ -5056,6 +5367,9 @@
       "religions": [
         {
           "Christian": 31.6
+        },
+        {
+          "Catholic": 7.6
         },
         {
           "Buddhist": 24.2
@@ -5083,7 +5397,7 @@
         "$37.100",
         "$36.300"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.3,
         "industry": 37.6,
         "services": 60.2
@@ -5135,7 +5449,7 @@
         "$9.500",
         "$9.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 12.9,
         "industry": 22.6,
         "services": 64.5
@@ -5156,7 +5470,7 @@
       "population": "2,832,776",
       "religions": [
         {
-          "Muslim": 76.7
+          "Muslim (official)": 76.7
         },
         {
           "Christian": 17.3
@@ -5181,7 +5495,7 @@
         "$71.500",
         "$72.600"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 0.4,
         "industry": 59.6,
         "services": 40
@@ -5231,7 +5545,7 @@
         "$3.400",
         "$3.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 17.9,
         "industry": 25.9,
         "services": 56.2
@@ -5282,7 +5596,7 @@
         "$5.400",
         "$5.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 21.3,
         "industry": 32.5,
         "services": 39.4
@@ -5337,7 +5651,7 @@
         "$25.000",
         "$24.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 3.3,
         "industry": 23.2,
         "services": 73.6
@@ -5362,7 +5676,19 @@
           "Muslim": 54
         },
         {
+          "": 27
+        },
+        {
           "Christian": 40.5
+        },
+        {
+          "": 8
+        },
+        {
+          "": 5
+        },
+        {
+          "": 6.5
         },
         {
           "Druze": 5.6
@@ -5384,7 +5710,7 @@
         "$18.500",
         "$18.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 5.7,
         "industry": 25,
         "services": 69.4
@@ -5429,7 +5755,7 @@
         "$3.000",
         "$3.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 7.3,
         "industry": 31.1,
         "services": 61.5
@@ -5482,7 +5808,7 @@
         "$900",
         "$900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 35.4,
         "industry": 14.4,
         "services": 50.2
@@ -5502,7 +5828,7 @@
       "population": "6,541,948",
       "religions": [
         {
-          "Muslim": 96.6
+          "Muslim (official; virtually all Sunni)": 96.6
         },
         {
           "Christian": 2.7
@@ -5542,7 +5868,7 @@
         "$14.900",
         "$16.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 1.9,
         "industry": 43.2,
         "services": 54.9
@@ -5561,7 +5887,7 @@
       "population": "37,937",
       "religions": [
         {
-          "Roman Catholic": 75.9
+          "Roman Catholic (official)": 75.9
         },
         {
           "Protestant Reformed": 6.5
@@ -5598,7 +5924,7 @@
         "$90.600",
         "$89.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 8,
         "industry": 37,
         "services": 55
@@ -5633,7 +5959,7 @@
           "Evangelical Reformist": 0.2
         },
         {
-          "other": 0.8
+          "and Karaite)": 0.8
         },
         {
           "none": 6.1
@@ -5658,7 +5984,7 @@
         "$28.800",
         "$28.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 3.3,
         "industry": 30.4,
         "services": 66.4
@@ -5680,7 +6006,7 @@
           "Roman Catholic": 87
         },
         {
-          "other": 13
+          "and Muslim)": 13
         }
       ],
       "populationGrowthRate": 2.05,
@@ -5699,7 +6025,7 @@
         "$100.800",
         "$98.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 0.2,
         "industry": 11.1,
         "services": 88.7
@@ -5758,7 +6084,7 @@
         "$14.200",
         "$13.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 11.2,
         "industry": 26.3,
         "services": 62.5
@@ -5785,6 +6111,7 @@
       "forest": 21.5,
       "enviromentIssues": "soil erosion results from deforestation and overgrazing; desertification; surface water contaminated with raw sewage and other organic wastes; several endangered species of flora and fauna unique to the island",
       "population": "24,430,325",
+      "religions": null,
       "populationGrowthRate": 2.54,
       "lifeExpectancyAtBirth": {
         "totalPopulation": 65.9,
@@ -5801,7 +6128,7 @@
         "$1.500",
         "$1.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 24.8,
         "industry": 16.3,
         "services": 58.9
@@ -5852,7 +6179,7 @@
         "$1.100",
         "$1.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 32,
         "industry": 17.5,
         "services": 50.5
@@ -5876,7 +6203,7 @@
       "population": "30,949,962",
       "religions": [
         {
-          "Muslim": 61.3
+          "Muslim (official)": 61.3
         },
         {
           "Buddhist": 19.8
@@ -5916,7 +6243,7 @@
         "$26.600",
         "$25.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 8.2,
         "industry": 37.8,
         "services": 54
@@ -5932,6 +6259,7 @@
       "forest": 3,
       "enviromentIssues": "depletion of freshwater aquifers threatens water supplies; coral reef bleaching",
       "population": "392,960",
+      "religions": null,
       "populationGrowthRate": -0.07,
       "lifeExpectancyAtBirth": {
         "totalPopulation": 75.6,
@@ -5948,7 +6276,7 @@
         "$15.100",
         "$15.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 3.5,
         "industry": 19.3,
         "services": 77.2
@@ -6005,7 +6333,7 @@
         "$2.200",
         "$2.200"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 41,
         "industry": 18.6,
         "services": 40.4
@@ -6025,7 +6353,7 @@
       "population": "415,196",
       "religions": [
         {
-          "Roman Catholicmore than": 90
+          "Roman Catholic (official) more than": 90
         }
       ],
       "populationGrowthRate": 0.29,
@@ -6044,7 +6372,7 @@
         "$36.500",
         "$34.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 1.4,
         "industry": 11.4,
         "services": 87.2
@@ -6104,7 +6432,7 @@
         "$3.200",
         "$3.200"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 4.4,
         "industry": 9.9,
         "services": 85.7
@@ -6129,7 +6457,7 @@
       "population": "3,677,293",
       "religions": [
         {
-          "Muslim": 100
+          "Muslim (official)": 100
         }
       ],
       "populationGrowthRate": 2.2,
@@ -6148,7 +6476,7 @@
         "$4.400",
         "$4.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 24.1,
         "industry": 34.8,
         "services": 41.1
@@ -6204,7 +6532,7 @@
         "$19.800",
         "$19.200"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 4,
         "industry": 22.1,
         "services": 73.9
@@ -6266,7 +6594,7 @@
         "$18.700",
         "$18.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 3.7,
         "industry": 33.1,
         "services": 63.2
@@ -6291,6 +6619,15 @@
         },
         {
           "Protestant": 41.1
+        },
+        {
+          "Baptist": 1.1
+        },
+        {
+          "Seventh Day Adventist": 0.8
+        },
+        {
+          "Assembly of God": 0.7
         },
         {
           "Mormon": 1.5
@@ -6321,7 +6658,7 @@
         "$3.000",
         "$3.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 26.3,
         "industry": 18.9,
         "services": 54.8
@@ -6380,7 +6717,7 @@
         "$5.100",
         "$5.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 14.1,
         "industry": 21.2,
         "services": 64.7
@@ -6420,7 +6757,7 @@
         "$73.200",
         "$72.600"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 0,
         "industry": 14,
         "services": 86
@@ -6484,7 +6821,7 @@
         "$12.300",
         "$12.200"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 14.6,
         "industry": 35.1,
         "services": 50.3
@@ -6532,7 +6869,7 @@
         "$16.200",
         "$15.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 8.3,
         "industry": 21.2,
         "services": 70.5
@@ -6559,7 +6896,13 @@
           "Muslim": 99
         },
         {
+          "<": 0.1
+        },
+        {
           "other": 1
+        },
+        {
+          "and Baha'i); note - Jewish about": 6
         },
         {
           "": 0
@@ -6581,7 +6924,7 @@
         "$8.300",
         "$8.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 13.1,
         "industry": 29.8,
         "services": 57.2
@@ -6641,7 +6984,7 @@
         "$1.200",
         "$1.200"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 25.3,
         "industry": 19.8,
         "services": 54.9
@@ -6694,7 +7037,7 @@
         "$11.400",
         "$11.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 5.5,
         "industry": 29,
         "services": 65.6
@@ -6714,6 +7057,18 @@
       "religions": [
         {
           "Protestant": 60.4
+        },
+        {
+          "Assembly of God": 13
+        },
+        {
+          "Nauru Independent Church": 9.5
+        },
+        {
+          "Baptist": 1.5
+        },
+        {
+          "and Seventh Day Adventist": 0.7
         },
         {
           "Roman Catholic": 33
@@ -6744,7 +7099,7 @@
         "$13.700",
         "$12.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 6.1,
         "industry": 33,
         "services": 60.8
@@ -6807,7 +7162,7 @@
         "$2.500",
         "$2.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 29.4,
         "industry": 13,
         "services": 50.4
@@ -6837,6 +7192,12 @@
           "Protestant": 19
         },
         {
+          "": 7
+        },
+        {
+          "Calvinist": 3
+        },
+        {
           "other": 11
         },
         {
@@ -6859,7 +7220,7 @@
         "$50.300",
         "$49.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 1.6,
         "industry": 17.8,
         "services": 70.4
@@ -6885,6 +7246,21 @@
       "religions": [
         {
           "Christian": 44.3
+        },
+        {
+          "Anglican": 10.8
+        },
+        {
+          "Presbyterian and Congregational": 7.8
+        },
+        {
+          "": 2.4
+        },
+        {
+          "Pentecostal": 1.8
+        },
+        {
+          "other": 9.9
         },
         {
           "Hindu": 2.1
@@ -6927,7 +7303,7 @@
         "$36.600",
         "$36.300"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 4.2,
         "industry": 26.5,
         "services": 69.2
@@ -6958,6 +7334,9 @@
           "Protestant": 23.2
         },
         {
+          "Moravian": 1.6
+        },
+        {
           "Jehovah's Witnesses": 0.9
         },
         {
@@ -6983,7 +7362,7 @@
         "$5.100",
         "$4.900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 16.9,
         "industry": 24.3,
         "services": 58.8
@@ -7013,7 +7392,7 @@
           "Muslim": 80
         },
         {
-          "other": 20
+          "other (includes indigenous beliefs and Christian)": 20
         }
       ],
       "populationGrowthRate": 3.22,
@@ -7032,7 +7411,7 @@
         "$1.100",
         "$1.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 36.5,
         "industry": 18.5,
         "services": 45
@@ -7084,7 +7463,7 @@
         "$6.200",
         "$6.200"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 21.1,
         "industry": 19.4,
         "services": 59.5
@@ -7113,7 +7492,7 @@
       "population": "5,265,158",
       "religions": [
         {
-          "Church of Norway": 82.1
+          "Church of Norway (Evangelical Lutheran - official)": 82.1
         },
         {
           "other Christian": 3.9
@@ -7147,7 +7526,7 @@
         "$69.500",
         "$69.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 1.8,
         "industry": 34.7,
         "services": 63.5
@@ -7172,7 +7551,7 @@
       "population": "3,355,262",
       "religions": [
         {
-          "Muslim": 85.9
+          "lesser numbers of Sunni and Shia)": 85.9
         },
         {
           "Christian": 6.5
@@ -7209,7 +7588,7 @@
         "$44.300",
         "$44.300"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 1.7,
         "industry": 45.4,
         "services": 52.9
@@ -7234,10 +7613,13 @@
       "population": "201,995,540",
       "religions": [
         {
-          "Muslim": 96.4
+          "Muslim (official)": 96.4
         },
         {
-          "other": 3.6
+          "Shia": 10
+        },
+        {
+          "other (includes Christian and Hindu)": 3.6
         }
       ],
       "populationGrowthRate": 1.45,
@@ -7256,7 +7638,7 @@
         "$5.000",
         "$4.900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 25.2,
         "industry": 19.2,
         "services": 55.6
@@ -7317,7 +7699,7 @@
         "$15.300",
         "$14.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 3.2,
         "industry": 20,
         "services": 76.8
@@ -7360,7 +7742,7 @@
         "$22.100",
         "$21.300"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.7,
         "industry": 14.3,
         "services": 83
@@ -7390,6 +7772,27 @@
           "Protestant": 69.4
         },
         {
+          "United Church": 11.5
+        },
+        {
+          "Seventh-Day Adventist": 10
+        },
+        {
+          "Pentecostal": 8.6
+        },
+        {
+          "Evangelical Alliance": 5.2
+        },
+        {
+          "Anglican": 3.2
+        },
+        {
+          "Baptist": 2.5
+        },
+        {
+          "other Protestant": 8.9
+        },
+        {
           "Baha'i": 0.3
         },
         {
@@ -7412,7 +7815,7 @@
         "$3.500",
         "$3.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 22.3,
         "industry": 37.6,
         "services": 40.1
@@ -7465,7 +7868,7 @@
         "$9.200",
         "$9.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 17.1,
         "industry": 27.3,
         "services": 55.6
@@ -7522,7 +7925,7 @@
         "$12.700",
         "$12.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 7.3,
         "industry": 34.2,
         "services": 58.5
@@ -7548,6 +7951,9 @@
       "religions": [
         {
           "Catholic": 82.9
+        },
+        {
+          "Aglipayan": 2
         },
         {
           "Muslim": 5
@@ -7587,7 +7993,7 @@
         "$7.400",
         "$7.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 9.7,
         "industry": 30.5,
         "services": 59.8
@@ -7614,6 +8020,9 @@
       "religions": [
         {
           "Catholic": 87.2
+        },
+        {
+          "and Byzantine-Slavic Catholic .": 3
         },
         {
           "Orthodox": 1.3
@@ -7644,7 +8053,7 @@
         "$26.800",
         "$25.900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.7,
         "industry": 38.5,
         "services": 58.9
@@ -7683,7 +8092,7 @@
           "other Christian": 3.3
         },
         {
-          "other": 0.6
+          "other)": 0.6
         },
         {
           "none": 6.8
@@ -7708,7 +8117,7 @@
         "$28.300",
         "$27.900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.4,
         "industry": 21.9,
         "services": 75.9
@@ -7734,7 +8143,7 @@
           "Christian": 8.5
         },
         {
-          "other": 14
+          "other (includes mainly Hindu and other Indian religions)": 14
         }
       ],
       "populationGrowthRate": 2.64,
@@ -7753,7 +8162,7 @@
         "$134.600",
         "$140.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 0.1,
         "industry": 51.1,
         "services": 48.8
@@ -7778,16 +8187,16 @@
       "population": "21,599,736",
       "religions": [
         {
-          "Eastern Orthodox": 81.9
+          "Eastern Orthodox (including all sub-denominations)": 81.9
         },
         {
-          "Protestant": 6.4
+          "Protestant (various denominations including Reformed and Pentecostal)": 6.4
         },
         {
           "Roman Catholic": 4.3
         },
         {
-          "other": 0.9
+          "other (includes Muslim)": 0.9
         },
         {
           "none or atheist": 0.2
@@ -7812,7 +8221,7 @@
         "$21.100",
         "$20.300"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 3.3,
         "industry": 35.4,
         "services": 61.3
@@ -7860,7 +8269,7 @@
         "$26.300",
         "$27.300"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 4.7,
         "industry": 33.1,
         "services": 62.2
@@ -7923,7 +8332,7 @@
         "$1.800",
         "$1.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 34.6,
         "industry": 15.1,
         "services": 50.3
@@ -7939,6 +8348,7 @@
       "forest": 42.3,
       "enviromentIssues": "NA",
       "population": "52,329",
+      "religions": null,
       "populationGrowthRate": 0.75,
       "lifeExpectancyAtBirth": {
         "totalPopulation": 75.7,
@@ -7955,7 +8365,7 @@
         "$24.600",
         "$23.900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 1.3,
         "industry": 27.2,
         "services": 71.5
@@ -7981,6 +8391,21 @@
         },
         {
           "Protestant": 25.5
+        },
+        {
+          "Pentecostal": 8.9
+        },
+        {
+          "Baptist": 2.2
+        },
+        {
+          "Anglican": 1.6
+        },
+        {
+          "Church of God": 1.5
+        },
+        {
+          "other Protestant": 0.9
         },
         {
           "other Christian": 3.4
@@ -8014,7 +8439,7 @@
         "$11.900",
         "$11.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.9,
         "industry": 14.1,
         "services": 83
@@ -8036,10 +8461,13 @@
           "Protestant": 75
         },
         {
+          "Methodist": 28
+        },
+        {
           "Roman Catholic": 13
         },
         {
-          "other": 12
+          "other Protestant)": 12
         }
       ],
       "populationGrowthRate": -0.26,
@@ -8058,7 +8486,7 @@
         "$11.100",
         "$11.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 7.9,
         "industry": 17.2,
         "services": 75
@@ -8079,6 +8507,15 @@
       "religions": [
         {
           "Protestant": 57.4
+        },
+        {
+          "Methodist": 13.7
+        },
+        {
+          "Assembly of God": 8
+        },
+        {
+          "Seventh-Day Adventist": 3.9
         },
         {
           "Roman Catholic": 19.4
@@ -8118,7 +8555,7 @@
         "$5.300",
         "$5.200"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 10.7,
         "industry": 24,
         "services": 65.4
@@ -8134,6 +8571,7 @@
       "forest": 0,
       "enviromentIssues": "air pollution; urbanization decreasing rural farmlands",
       "population": "33,285",
+      "religions": null,
       "populationGrowthRate": 0.78,
       "lifeExpectancyAtBirth": {
         "totalPopulation": 83.3,
@@ -8150,7 +8588,7 @@
         "$64.600",
         "$64.300"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 0.1,
         "industry": 39.2,
         "services": 60.7
@@ -8215,7 +8653,7 @@
         "$3.300",
         "$3.200"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 22.4,
         "industry": 10.3,
         "services": 67.4
@@ -8235,7 +8673,14 @@
       "forest": 0.5,
       "enviromentIssues": "desertification; depletion of underground water resources; the lack of perennial rivers or permanent water bodies has prompted the development of extensive seawater desalination facilities; coastal pollution from oil spills",
       "population": "28,160,273",
-      "religions": [],
+      "religions": [
+        {
+          "Muslim (official; citizens are": 85
+        },
+        {
+          "and Sikh) (": 2012
+        }
+      ],
       "populationGrowthRate": 1.46,
       "lifeExpectancyAtBirth": {
         "totalPopulation": 75.3,
@@ -8252,7 +8697,7 @@
         "$54.500",
         "$53.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.4,
         "industry": 42.9,
         "services": 54.7
@@ -8297,7 +8742,7 @@
         "$2.500",
         "$2.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 15.6,
         "industry": 24.1,
         "services": 60.3
@@ -8367,7 +8812,7 @@
         "$13.900",
         "$13.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 9.7,
         "industry": 42.7,
         "services": 47.6
@@ -8391,6 +8836,15 @@
         },
         {
           "Protestant": 10.6
+        },
+        {
+          "Pentecoastal Assembly": 1.5
+        },
+        {
+          "Seventh-Day Adventist": 1.2
+        },
+        {
+          "other Protestant": 1.6
         },
         {
           "other Christian": 2.4
@@ -8427,7 +8881,7 @@
         "$27.000",
         "$25.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.6,
         "industry": 13.9,
         "services": 83.5
@@ -8475,7 +8929,7 @@
         "$1.600",
         "$2.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 71.1,
         "industry": 7.9,
         "services": 21
@@ -8534,7 +8988,7 @@
         "$86.500",
         "$85.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 0,
         "industry": 26.6,
         "services": 73.4
@@ -8585,7 +9039,7 @@
         "$30.200",
         "$29.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 3.6,
         "industry": 31.6,
         "services": 64.8
@@ -8645,7 +9099,7 @@
         "$31.300",
         "$30.600"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.3,
         "industry": 33.6,
         "services": 64.1
@@ -8671,6 +9125,18 @@
       "religions": [
         {
           "Protestant": 73.4
+        },
+        {
+          "South Sea Evangelical": 17.1
+        },
+        {
+          "Seventh Day Adventist": 11.7
+        },
+        {
+          "United Church": 10.1
+        },
+        {
+          "Christian Fellowship Church": 2.5
         },
         {
           "Roman Catholic": 19.6
@@ -8704,7 +9170,7 @@
         "$2.000",
         "$2.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 52.8,
         "industry": 8,
         "services": 39.2
@@ -8727,6 +9193,7 @@
       "forest": 10.6,
       "enviromentIssues": "famine; use of contaminated water contributes to human health problems; deforestation; overgrazing; soil erosion; desertification",
       "population": "10,817,354",
+      "religions": null,
       "populationGrowthRate": 1.92,
       "lifeExpectancyAtBirth": {
         "totalPopulation": 52.4,
@@ -8743,7 +9210,7 @@
         "$400",
         "$600"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 60.2,
         "industry": 7.4,
         "services": 32.5
@@ -8780,6 +9247,18 @@
           "Protestant": 36.6
         },
         {
+          "Pentecostal/Charismatic": 8.2
+        },
+        {
+          "Methodist": 6.8
+        },
+        {
+          "Dutch Reformed": 6.7
+        },
+        {
+          "Anglican": 3.8
+        },
+        {
           "Catholic": 7.1
         },
         {
@@ -8814,7 +9293,7 @@
         "$13.400",
         "$13.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.2,
         "industry": 29.2,
         "services": 68.7
@@ -8841,6 +9320,7 @@
         " silver"
       ],
       "population": "12,530,717",
+      "religions": null,
       "populationGrowthRate": 3.92,
       "purshasingPowerParity": [
         "$20.88 billion",
@@ -8904,7 +9384,7 @@
         "$35.300",
         "$34.200"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 2.5,
         "industry": 22.4,
         "services": 75.1
@@ -8929,7 +9409,7 @@
       "population": "22.235 million",
       "religions": [
         {
-          "Buddhist": 70.2
+          "Buddhist (official)": 70.2
         },
         {
           "Hindu": 12.6
@@ -8963,7 +9443,7 @@
         "$10.700",
         "$10.300"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 8.5,
         "industry": 30.9,
         "services": 60.6
@@ -8986,6 +9466,7 @@
       "forest": 0,
       "enviromentIssues": "inadequate supplies of potable water; wildlife populations threatened by excessive hunting; soil erosion; desertification; periodic drought",
       "population": "36,729,501",
+      "religions": null,
       "populationGrowthRate": 1.69,
       "lifeExpectancyAtBirth": {
         "totalPopulation": 64.1,
@@ -9002,7 +9483,7 @@
         "$4.500",
         "$4.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 27.5,
         "industry": 20.7,
         "services": 51.8
@@ -9061,7 +9542,7 @@
         "$16.500",
         "$16.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 6.7,
         "industry": 49.9,
         "services": 43.4
@@ -9115,7 +9596,7 @@
         "$9.800",
         "$9.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 5.8,
         "industry": 44.5,
         "services": 49.7
@@ -9147,7 +9628,7 @@
           "Lutheran": 87
         },
         {
-          "other": 13
+          "and Buddhist)": 13
         }
       ],
       "populationGrowthRate": 0.81,
@@ -9166,7 +9647,7 @@
         "$48.800",
         "$47.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 1.7,
         "industry": 34.2,
         "services": 64
@@ -9223,7 +9704,7 @@
         "$59.400",
         "$59.600"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 0.7,
         "industry": 25.9,
         "services": 73.4
@@ -9252,6 +9733,9 @@
           "Muslim": 87
         },
         {
+          "and Shia": 13
+        },
+        {
           "Christian": 10
         },
         {
@@ -9274,7 +9758,7 @@
         "NA",
         "NA"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 19.5,
         "industry": 19,
         "services": 61.5
@@ -9327,7 +9811,7 @@
         "$2.900",
         "$2.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 29.2,
         "industry": 21.6,
         "services": 49.2
@@ -9385,7 +9869,7 @@
         "$2.900",
         "$2.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 25.1,
         "industry": 27.6,
         "services": 47.3
@@ -9414,7 +9898,7 @@
       "population": "68,200,824",
       "religions": [
         {
-          "Buddhist": 93.6
+          "Buddhist (official)": 93.6
         },
         {
           "Muslim": 4.9
@@ -9445,7 +9929,7 @@
         "$16.300",
         "$15.900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 8.9,
         "industry": 35.9,
         "services": 55.3
@@ -9495,7 +9979,7 @@
         "$4.100",
         "$4.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 7.5,
         "industry": 68,
         "services": 24.4
@@ -9541,7 +10025,7 @@
         "$1.500",
         "$1.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 27.5,
         "industry": 21.3,
         "services": 51.2
@@ -9561,6 +10045,27 @@
       "religions": [
         {
           "Protestant": 64.9
+        },
+        {
+          "Free Church of Tonga": 11.4
+        },
+        {
+          "Church of Tonga": 7.2
+        },
+        {
+          "Tokaikolo Christian Church": 2.6
+        },
+        {
+          "Assembly of God": 2.3
+        },
+        {
+          "Seventh Day Adventist": 2.2
+        },
+        {
+          "Constitutional Church of Tonga": 0.9
+        },
+        {
+          "Anglican": 0.8
         },
         {
           "Mormon": 16.8
@@ -9594,7 +10099,7 @@
         "$5.200",
         "$5.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 19.2,
         "industry": 20.6,
         "services": 60.1
@@ -9615,6 +10120,21 @@
       "religions": [
         {
           "Protestant": 32.1
+        },
+        {
+          "Baptist": 6.9
+        },
+        {
+          "Anglican": 5.7
+        },
+        {
+          "Seventh-Day Adventist": 4.1
+        },
+        {
+          "Presbyterian/Congretational": 2.5
+        },
+        {
+          "other Protestant": 0.9
         },
         {
           "Roman Catholic": 21.6
@@ -9654,7 +10174,7 @@
         "$33.000",
         "$33.900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 0.5,
         "industry": 13.9,
         "services": 85.6
@@ -9677,10 +10197,10 @@
       "population": "11,134,588",
       "religions": [
         {
-          "Muslim": 99.1
+          "Muslim (official; Sunni)": 99.1
         },
         {
-          "other": 1
+          "and Baha'i)": 1
         }
       ],
       "populationGrowthRate": 0.86,
@@ -9699,7 +10219,7 @@
         "$11.600",
         "$11.600"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 10.1,
         "industry": 28.3,
         "services": 61.6
@@ -9759,7 +10279,7 @@
         "$20.700",
         "$20.100"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 8.6,
         "industry": 27.1,
         "services": 64.3
@@ -9805,7 +10325,7 @@
         "$16.700",
         "$15.900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 13.2,
         "industry": 47.7,
         "services": 39.2
@@ -9852,7 +10372,7 @@
         "$3.400",
         "$3.300"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 24.5,
         "industry": 5.6,
         "services": 70
@@ -9877,6 +10397,15 @@
       "religions": [
         {
           "Protestant": 45.1
+        },
+        {
+          "Pentecostal/Born Again/Evangelical": 11.1
+        },
+        {
+          "Seventh Day Adventist": 1.7
+        },
+        {
+          "Baptist .": 3
         },
         {
           "Roman Catholic": 39.3
@@ -9907,7 +10436,7 @@
         "$2.000",
         "$2.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 24.5,
         "industry": 21,
         "services": 54.4
@@ -9937,6 +10466,7 @@
       "forest": 16.8,
       "enviromentIssues": "inadequate supplies of potable water; air and water pollution; deforestation; radiation contamination in the northeast from 1986 accident at Chornobyl' Nuclear Power Plant",
       "population": "44,209,733",
+      "religions": null,
       "populationGrowthRate": -0.39,
       "lifeExpectancyAtBirth": {
         "totalPopulation": 71.8,
@@ -9953,7 +10483,7 @@
         "$8.100",
         "$8.900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 14.4,
         "industry": 26.3,
         "services": 59.3
@@ -9972,13 +10502,16 @@
       "population": "5,927,482",
       "religions": [
         {
-          "Muslim": 76
+          "Muslim (official)": 76
         },
         {
           "Christian": 9
         },
         {
-          "other": 15
+          "less than": 5
+        },
+        {
+          "and Jewish)": 15
         }
       ],
       "populationGrowthRate": 2.47,
@@ -9997,7 +10530,7 @@
         "$68.100",
         "$67.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 0.7,
         "industry": 44.6,
         "services": 54.7
@@ -10031,7 +10564,7 @@
       "population": "64,430,428",
       "religions": [
         {
-          "Christian": 59.5
+          "Methodist)": 59.5
         },
         {
           "Muslim": 4.4
@@ -10065,7 +10598,7 @@
         "$42.000",
         "$41.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 0.6,
         "industry": 19.2,
         "services": 80.2
@@ -10154,7 +10687,7 @@
         "$56.800",
         "$55.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 1.1,
         "industry": 19.4,
         "services": 79.5
@@ -10209,7 +10742,7 @@
         "$21.600",
         "$21.500"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 6.3,
         "industry": 26.1,
         "services": 67.6
@@ -10261,7 +10794,7 @@
         "$6.200",
         "$5.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 19.3,
         "industry": 33.9,
         "services": 46.8
@@ -10282,6 +10815,24 @@
       "religions": [
         {
           "Protestant": 70
+        },
+        {
+          "Anglican": 15.1
+        },
+        {
+          "Seventh Day Adventist": 12.5
+        },
+        {
+          "Assemblies of God": 4.7
+        },
+        {
+          "Church of Christ": 4.5
+        },
+        {
+          "Neil Thomas Ministry": 3.1
+        },
+        {
+          "and Apostolic": 2.2
         },
         {
           "Roman Catholic": 12.4
@@ -10315,7 +10866,7 @@
         "$2.600",
         "$2.700"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 26,
         "industry": 9,
         "services": 65
@@ -10331,6 +10882,7 @@
       "forest": 0,
       "enviromentIssues": "NA",
       "population": "1,000",
+      "religions": null,
       "populationGrowthRate": 0,
       "purshasingPowerParity": [
         "$NA"
@@ -10380,7 +10932,7 @@
         "$17.000",
         "$18.400"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 4,
         "industry": 36.1,
         "services": 59.9
@@ -10444,7 +10996,7 @@
         "$6.100",
         "$5.800"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 17,
         "industry": 39,
         "services": 44
@@ -10472,7 +11024,13 @@
           "Muslim": 99.1
         },
         {
+          "an estimated": 65
+        },
+        {
           "other": 0.9
+        },
+        {
+          "and Christian; many are refugees or temporary foreign residents) (": 2010
         }
       ],
       "populationGrowthRate": 2.37,
@@ -10491,7 +11049,7 @@
         "$2.700",
         "$3.900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 23.6,
         "industry": 8.9,
         "services": 67.5
@@ -10546,7 +11104,7 @@
         "$3.900",
         "$3.900"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 9.2,
         "industry": 29.2,
         "services": 61.7
@@ -10577,6 +11135,12 @@
           "Protestant": 75.9
         },
         {
+          "Pentecostal": 21.1
+        },
+        {
+          "other": 16.8
+        },
+        {
           "Roman Catholic": 8.4
         },
         {
@@ -10605,7 +11169,7 @@
         "$2.000",
         "$2.000"
       ],
-      "compositionBySectorOfOrigin": {
+      "economyOrigin": {
         "agriculture": 12.2,
         "industry": 28.4,
         "services": 59.4
